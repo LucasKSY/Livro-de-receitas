@@ -3,5 +3,5 @@
 
 # Receitas
 [Strogonoff de Frango](/Receitas/Receita%20Strogonoff.md "Strogonoff").
-
-Creme de leite
+[Brigadeiro](/Receitas/Receita%20Brigadeiro.md "Brigadeiro").
+[Purê de Batata](/Receitas/Receita_Purê_de_Batata.md "Purê de Batata").
