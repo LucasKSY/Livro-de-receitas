@@ -3,3 +3,5 @@
 
 # Receitas
 [Strogonoff de Frango](/Receitas/Receita%20Strogonoff.md "Strogonoff").
+
+Creme de leite
